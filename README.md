@@ -19,7 +19,7 @@ Sites web :
 - Superdatascience : https://www.superdatascience.com/blogs/opencv-face-detection
 - GeekforGeeks : https://www.geeksforgeeks.org/python/how-to-blur-faces-in-images-using-opencv-in-python/
 
-Photos : [celeb1.png] (https://www.news24.com/life/arts-and-entertainment/celebrities/year-in-review-celebrities-share-reflections-and-milestones-as-2024-draws-to-a-close-20241231)
+Photos : [celeb1.png](https://www.news24.com/life/arts-and-entertainment/celebrities/year-in-review-celebrities-share-reflections-and-milestones-as-2024-draws-to-a-close-20241231)
 
 
 Celeb1 : https://www.news24.com/life/arts-and-entertainment/celebrities/year-in-review-celebrities-share-reflections-and-milestones-as-2024-draws-to-a-close-20241231 
