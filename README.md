@@ -9,7 +9,7 @@ Pour le projet dans le cours "Introduction au traitement d'image", je propose la
 - matplotlib.
 
 # Algorithme
-Haar Cascades, proposé par Viola et Jones, est une méthode de détection d'objets et peut détecter des visages dans les images.
+Haar Cascades, proposé par Viola et Jones, est une méthode basée sur le machine learning et peut détecter des visages dans les images.
 
 # Données
 Les données sont des photos de célébrités. Elles incluent des photos où les célébrités sont seuls, en groupe, avec des lunettes de soleil et sans.
