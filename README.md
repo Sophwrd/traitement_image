@@ -6,13 +6,13 @@ Pour le projet dans le cours "Introduction au traitement d'image", je propose la
 # Prérequis
 - La librairie OpenCV (cv2)
 - pathlib
-- matplotlib.
+- matplotlib
 
 # Algorithme
 Haar Cascades, proposé par Viola et Jones, est une méthode basée sur le machine learning et peut détecter des visages dans les images.
 
 # Données
-Les données sont des photos de célébrités. Elles incluent des photos où les célébrités sont seuls, en groupe, avec des lunettes de soleil et sans.
+Les données sont des photos de célébrités. Elles incluent des photos où les célébrités sont seules, en groupe, regardant la caméra et regardant sur le côté, et avec des lunettes de soleil et sans.
 
 # Sources
 Sites web :
