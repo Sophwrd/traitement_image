@@ -16,8 +16,9 @@ Les données sont des photos de célébrités. Elles incluent des photos où les
 
 # Sources
 Sites web :
-- Superdatascience : https://www.superdatascience.com/blogs/opencv-face-detection
-- GeekforGeeks : https://www.geeksforgeeks.org/python/how-to-blur-faces-in-images-using-opencv-in-python/
+- Installation de OpenCV, [GeekforGeeks](https://www.geeksforgeeks.org/installation-guide/how-to-install-opencv-for-visual-studio-code-and-python/)
+- Détection de visage avec OpenCV, [Superdatascience](https://www.superdatascience.com/blogs/opencv-face-detection)
+- Comment anonymiser les visages avec OpenCV, [GeekforGeeks](https://www.geeksforgeeks.org/python/how-to-blur-faces-in-images-using-opencv-in-python/)
 
 Photos : 
 - celeb1.png, [News 24](https://www.news24.com/life/arts-and-entertainment/celebrities/year-in-review-celebrities-share-reflections-and-milestones-as-2024-draws-to-a-close-20241231)
