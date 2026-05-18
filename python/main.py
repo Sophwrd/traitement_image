@@ -18,7 +18,7 @@ def convert_to_rgb(img): # cv loads images into bgr by default
     """Converts image colours from BGR to RGB
 
     Args:
-        img : image in BGR colour
+        img (numpy.ndarray) : image in BGR colour
 
     Returns:
         Return the image in RGB colours
@@ -33,7 +33,7 @@ def detect_faces(f_cascade, colored_img, scaleFactor = 1.1):
 
     Args:
         f_cascade (cv2.CascadeClassifier): Haar face classifier used for face detection
-        colored_img : image in BGR colours
+        colored_img (numpy.ndarray) : image in BGR colours
         scaleFactor (float): 1.1, compensates when 1 face appears bigger than others
 
     Returns:
@@ -58,7 +58,7 @@ def blur_detect_faces(f_cascade, colored_img, scaleFactor = 1.1):
 
     Args:
         f_cascade (cv2.CascadeClassifier): Haar face classifier used for face detection
-        colored_img : image in BGR colours
+        colored_img (numpy.ndarray) : image in BGR colours
         scaleFactor (float): 1.1, compensates when 1 face appears bigger than others
 
     Returns:
